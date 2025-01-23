@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/andredantasti">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andredantasti&theme=tokyonight"/><br>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andredantasti&theme=tokyonight&include_all_commits=true&count_private=false"/><br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredantasti&layout=pie&hide_progress=true&langs_count=6&theme=tokyonight"/>
 </div>
     
