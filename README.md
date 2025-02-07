@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao Meu perfil, Desenvolvedor André Dantas 😁
+## Bem-vindo(a) ao Meu perfil, Desenvolvedor André Dantas😁
 
  <div>
    <a href="https://github.com/andredantasti">
