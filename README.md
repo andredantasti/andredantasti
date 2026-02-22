@@ -21,7 +21,7 @@ Sou apaixonado por tecnologia desde os 15 anos, quando fiz meu primeiro curso de
 
 Durante essa fase, desenvolvi alguns sites, incluindo o agitabsb.com.br, que mantive por mais de 10 anos 🎉. O site era voltado para divulgação e cobertura de eventos e festas em todo o Brasil.
 
-Sou formado em Análise e Desenvolvimento de Sistemas, mas nunca atuei profissionalmente em uma empresa da área. No entanto, há cerca de 6 meses voltei com tudo aos estudos de programação, agora focado em Frontend 🚀.
+Sou formado em Análise e Desenvolvimento de Sistemas, mas nunca atuei profissionalmente em uma empresa da área. No entanto, há cerca de 1 ano voltei com tudo aos estudos de programação, agora focado em Frontend 🚀.
 
 Além do mundo da tecnologia, também gosto de jogos 🎮, futebol ⚽, musculação 💪 e futevôlei 🏐.
 </div>
