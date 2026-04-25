@@ -17,15 +17,23 @@
 <div>
 💻 Sobre mim
 
-Sou apaixonado por tecnologia desde os 15 anos, quando fiz meu primeiro curso de manutenção e configuração de computadores. Pouco tempo depois, me aprofundei na área de programação, iniciando com um curso de Web Design, utilizando o lendário pacote Macromedia — Dreamweaver, Fireworks e Flash.
+# 👨‍💻 André Dantas
 
-Durante essa fase, desenvolvi alguns sites, incluindo o agitabsb.com.br, que mantive por mais de 10 anos 🎉. O site era voltado para divulgação e cobertura de eventos e festas em todo o Brasil.
+Desenvolvedor Front-end focado em React, JavaScript e interfaces modernas.
 
-Sou formado em Análise e Desenvolvimento de Sistemas, mas nunca atuei profissionalmente em uma empresa da área. No entanto, em 2024 voltei com tudo aos estudos de programação, agora focado em Frontend 🚀.
+🚀 Atualmente desenvolvendo projetos práticos com:
+- React
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Consumo de APIs
 
-Além do mundo da tecnologia, também gosto de jogos 🎮, futebol ⚽, musculação 💪 e futevôlei 🏐.
-</div>
-### Pra me conhecer melhor me siga nas redes abaixo!
+📂 Projetos em destaque:
+- Task Manager (React)
+- Landing Page Responsiva
+- App com API
+
+📫 Contato:
+- LinkedIn: (link)
  
 <div>
   <a href="https://instagram.com/andredantasti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
